@@ -1,11 +1,11 @@
 Pixel-Pipeline
 ==============
 
-# About
+## About
 A simple raytracing program I wrote back in ~2007. So far, the program is only useful for generating pictures of basic, slightly out-of-focus cubes. That said, they look pretty cool.
 I haven't touched this project in years but the basics may be useful for someone starting out writing their own raytracingi program.
 
-# Examples
+## Examples
 Here's a few of the cooler looking images I was able to make using the program:
 
 ![output1.png](https://raw.githubusercontent.com/DeadlyBrad42/Pixel-Pipeline/master/renders/output1.png)
