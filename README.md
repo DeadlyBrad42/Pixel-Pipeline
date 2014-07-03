@@ -3,7 +3,7 @@ Pixel-Pipeline
 
 ## About
 A simple raytracing program I wrote back in ~2007. So far, the program is only useful for generating pictures of basic, slightly out-of-focus cubes. That said, they look pretty cool.
-I haven't touched this project in years but the basics may be useful for someone starting out writing their own raytracingi program.
+I haven't touched this project in years but the basics may be useful for someone starting out writing their own raytracing program.
 
 ## Examples
 Here's a few of the cooler looking images I was able to make using the program:
